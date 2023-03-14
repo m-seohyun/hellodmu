@@ -10,7 +10,7 @@
 __차은우__
 
 <img src="IU.jpg" width="250" height="333"/> <br>
-__아이유__
+[__아이유__](https://www.youtube.com/channel/UC3SyT4_WLHzN7JmHQwKQZww)
 
 
 # 노래
