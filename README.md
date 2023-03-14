@@ -24,7 +24,7 @@ __차은우__
 
 # 공모전 수상 현황
 >전국 대학생 IT 아이디어 대회       
->  > + [대상 수상작 발표자료](/presentation.pptx)      
+>  >[대상 수상작 발표자료](/presentation.pptx)      
 > > >발표 동영상
 <iframe width="640" height="360" src="https://www.youtube.com/embed/t24C0DMcNMM" title="대학교에 돔구장이?!⚾ 매출 3조✨대기업이 재단인 동양미래대학교 대학탐방기🛴" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
