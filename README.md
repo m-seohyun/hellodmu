@@ -15,7 +15,7 @@ __아이유__
 
 # 노래
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/wDfqXR_5yyQ" title="아이유(IU)의 킬링보이스를 라이브로! - 하루 끝, 너의 의미, 스물셋, 밤편지, 팔레트, 가을 아침, 삐삐, Blueming, 에잇, Coin, 라일락 ㅣ 딩고뮤직" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wDfqXR_5yyQ" title="아이유(IU)의 킬링보이스를 라이브로! - 하루 끝, 너의 의미, 스물셋, 밤편지, 팔레트, 가을 아침, 삐삐, Blueming, 에잇, Coin, 라일락 ㅣ 딩고뮤직" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 # 내가 들은 과목
@@ -27,7 +27,7 @@ __아이유__
 >  > + [대상 수상작 발표자료](/presentation.pptx)      
 > > >발표 동영상
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/t24C0DMcNMM" title="대학교에 돔구장이?!⚾ 매출 3조✨대기업이 재단인 동양미래대학교 대학탐방기🛴" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/t24C0DMcNMM" title="대학교에 돔구장이?!⚾ 매출 3조✨대기업이 재단인 동양미래대학교 대학탐방기🛴" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
